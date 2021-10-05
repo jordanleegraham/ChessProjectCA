@@ -8,6 +8,7 @@ import javax.swing.*;
 	has been coded is a white pawn...a lot done, more to do!
 */
 
+
 public class ChessProject extends JFrame implements MouseListener, MouseMotionListener {
     JLayeredPane layeredPane;
     JPanel chessBoard;
